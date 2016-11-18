@@ -1,0 +1,7 @@
+*.bin
+*.[oa]
+!clib.a
+*~
+/debug
+
+
