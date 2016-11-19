@@ -1,2 +1,4 @@
 new:add 1
 new:add 3
+new6:add 2
+new6:add 4
