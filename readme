@@ -5,3 +5,4 @@ add 1
 add 2
 git checkout readme
 git merge new1 to new
+2th:git merge new1 to new
